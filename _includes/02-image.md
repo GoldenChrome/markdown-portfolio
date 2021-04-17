@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![troll face](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png)
